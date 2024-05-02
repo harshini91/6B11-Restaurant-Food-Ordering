@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif,'Crimson','Montserrat';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family : 'NHaasGroteskDSPro-65Md' !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+#herocarousel {
+  max-height: 450px;
+}
+
+/* hr {
+  height: 2px;
+  background-color: "#9A7966";
+} */
+
+
+/* #carouselExampleFade {
+  object-fit: contain;
+} */
